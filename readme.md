@@ -9,4 +9,8 @@ Objetivo: Hacer un menu activo para acceder páginas empregando menu superior ,f
 5- Verificar la accesibilidad de la página a través de Lighthouse.
 6- Verificar la responsividad de la página.
 
+![image](https://user-images.githubusercontent.com/91055703/143858529-369f956c-95b5-4067-825d-3ff400c541a7.png)
+![image](https://user-images.githubusercontent.com/91055703/143858581-038de8a1-0382-4fd3-abc4-8c34e497f243.png)
+![image](https://user-images.githubusercontent.com/91055703/143858628-ad41c2ee-cb32-4bc9-a729-60777d114219.png)
+![image](https://user-images.githubusercontent.com/91055703/143858654-965cb32e-f5ed-414f-a959-7ded63cb645b.png)
 

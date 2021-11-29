@@ -1,0 +1,38 @@
+
+  *{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-image: url(/img/computer-2982270_1920.jpg);
+  
+    
+  }
+  img{
+    opacity: 0.9;
+    
+    
+  }
+  h1{
+    color:red;
+
+  }
+ 
+  
+  html,body {
+    height: 100%;
+  }
+  
+  body {
+    color: #333;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  main {
+    flex: 1 0 auto;
+  }
+  img{
+      max-width: 100%;
+      margin: 5%;
+  }

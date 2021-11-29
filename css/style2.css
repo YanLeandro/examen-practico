@@ -1,0 +1,59 @@
+*{  
+    color: black;
+    text-align: center;
+    font-size: 30px;
+   background-color: whitesmoke;
+   
+}
+h4 {
+    color: black;
+    padding: 20px;
+    background: white;
+    border-radius: 5%;
+    border: 2px solid black;
+}
+nav{
+    margin: 6px;
+    padding: 20px;
+}
+
+p{
+    margin: auto;
+}
+
+.form-register{
+    margin: 2px;
+    width: 600px;
+    padding: 40px;
+    margin-top: 5%;
+    margin-left: 30%;
+    margin-bottom: 10%;
+    font-size: 25px;
+    background-color:rgb(88, 85, 85);
+    opacity: 0.9;
+    border-radius: 6%;
+}
+
+.controls{
+    margin: 6px;
+    border-radius: 10%;
+    color: black;
+}
+
+.botons{
+    border: tomato;
+    background: black;
+    color: white;
+    border-radius: 5%;
+
+}
+
+img{
+    max-width: 100%;
+    width: 800px;
+    border-radius: 10%;
+}
+
+#img{
+    float: right;
+}

@@ -1,0 +1,24 @@
+*{
+    background-color: whitesmoke;
+    text-align: center;
+    font-size: 40px;
+
+}
+h1{
+    font-family: 'Bitter', serif;
+    font-size: 60px;
+
+}
+
+p {
+    text-align: left;
+    padding: 40px;
+    border-left: 15%;
+    border-right:8%;
+
+}
+img{
+    height: auto;
+    width: 900px;
+    border-radius: 8%;
+}
